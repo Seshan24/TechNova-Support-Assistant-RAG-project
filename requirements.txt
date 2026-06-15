@@ -1,0 +1,12 @@
+tiktoken
+python-dotenv
+langchain
+langchain-openai
+langchain-chroma
+langchain-huggingface
+langchain-community
+langchain-text-splitters
+gradio
+sentence-transformers
+chromadb
+openai
