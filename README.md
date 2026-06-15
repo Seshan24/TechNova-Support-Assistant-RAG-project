@@ -22,7 +22,7 @@ An AI-powered customer support chatbot built using **LangChain**, **OpenAI GPT-4
 - LangChain
 - OpenAI GPT-4.1 Nano
 - Chroma Vector Database
-- HuggingFace Embeddings
+- HuggingFace Embeddings - odel_name="all-MiniLM-L6-v2"
 - Gradio
 - Sentence Transformers
 
